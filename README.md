@@ -69,6 +69,7 @@ Make sure to set up Firebase correctly with:
 
 Here is a simplified folder structure of the project:
 
+```
 
 lib/
 │
@@ -89,3 +90,4 @@ lib/
 │   ├── chat_model.dart
 │
 └── main.dart
+```
