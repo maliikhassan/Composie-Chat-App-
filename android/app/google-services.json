@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654076807767",
+    "project_id": "login-test-composedev",
+    "storage_bucket": "login-test-composedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654076807767:android:274f26b045536ce4133112",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_ON3enXCXBAGy4e9JLIdxzPomrAJeHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
