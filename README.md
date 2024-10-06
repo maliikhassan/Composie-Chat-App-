@@ -11,6 +11,9 @@ This is a **basic real-time chat application** built using **Flutter** and **Fir
 - **Chat Page**: Facilitates real-time communication between users. Each chat is private, with messages stored securely in Firestore.
 - **Account Info Page**: Displays user account information.
 
+  ![Chat App](https://github.com/user-attachments/assets/1e399577-91f5-407b-a039-6ccafb5125ff)
+
+
 ## Security
 
 - Each chat room has a **unique, secure, and protected ID**.
